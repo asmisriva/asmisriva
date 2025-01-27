@@ -3,8 +3,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/asmisriva?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/asmisriva?style=social)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/asmi-srivastava-153ab0255/)  
-![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:asmisriva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/asmi-srivastava-153ab0255/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:asmisriva@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmisriva&label=Profile%20views%20%F0%9F%91%80&color=0eb456&style=plastic" alt="asmisriva" /> </p>
 
